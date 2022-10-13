@@ -19,3 +19,6 @@ Se deduce que la aplicación tendrá dos tipos de usuario, los administradores (
 * Atomic Design
 * Mobile First
 * Scrum
+
+
+*Ir a [Público Objetivo](https://github.com/OscarTinajero117/MisionFrontEnd/tree/main/01%20-%20INTRO/practicas/PracticaRealizada/2.PublicoObjetivo).*
