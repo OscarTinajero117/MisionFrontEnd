@@ -11,3 +11,8 @@ Una persona trabajadora en un despacho jurídico
 Una persona con alguna situación que le lleva a necesitar ayuda de un(a) abogad@.
 
 ![Jorge](https://github.com/OscarTinajero117/MisionFrontEnd/blob/main/01%20-%20INTRO/practicas/PracticaRealizada/2.PublicoObjetivo/img/Jorge.jpg)
+
+
+*Regresar a [Requerimientos](https://github.com/OscarTinajero117/MisionFrontEnd/tree/main/01%20-%20INTRO/practicas/PracticaRealizada/1.Requerimientos).*
+
+*Ir a [Wireframe UX](https://github.com/OscarTinajero117/MisionFrontEnd/tree/main/01%20-%20INTRO/practicas/PracticaRealizada/3.WireframeUX).*
